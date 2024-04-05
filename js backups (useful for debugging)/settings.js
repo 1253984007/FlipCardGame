@@ -1,0 +1,1 @@
+window._CCSettings={platform:"ios",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/Scene/start_view.fire",orientation:"",server:"",jsList:[]};
